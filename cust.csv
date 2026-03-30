@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,city,country,signup_date
+1,Amit,Bhegade,amit.bhegade@email.com,Talegaon,India,2023-01-10
+2,Neha,Dabhade,neha.dabhade@email.com,Talegaon,India,2023-02-15
+3,Rahul,Shinde,rahul.shinde@email.com,Nagpur,India,2023-03-05
+4,Sneha,Sonavane,sneha.reddy@email.com,Jalgaon,India,2023-04-20
+5,Arjun,Kulkarni,arjun.kulkarni@email.com,Mumbai,India,2023-05-18
