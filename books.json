@@ -1,0 +1,24 @@
+[
+  {
+    "book_id": 101,
+    "title": "The Spark Guide",
+    "author": "Data Enthusiast",
+    "details": {
+      "pages": 350,
+      "genre": "Tech",
+      "rating": 4.8
+    },
+    "tags": ["pyspark", "big data", "python"]
+  },
+  {
+    "book_id": 102,
+    "title": "Python for All",
+    "author": "Code Master",
+    "details": {
+      "pages": 200,
+      "genre": "Education",
+      "rating": 4.5
+    },
+    "tags": ["coding", "basics"]
+  }
+]
