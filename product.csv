@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock_quantity
+101,Smartphone,Electronics,20000,50
+102,Laptop,Electronics,60000,30
+103,Headphones,Electronics,2000,100
+104,Shoes,Fashion,3000,80
+105,T-shirt,Fashion,800,150
