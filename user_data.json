@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": {"first": "James", "last": "Smith"},
+    "is_active": true,
+    "salary": 3000.50
+  },
+  {
+    "id": 2,
+    "name": {"first": "Maria", "last": "Garcia"},
+    "is_active": false,
+    "salary": 4500.75
+  }
+]
