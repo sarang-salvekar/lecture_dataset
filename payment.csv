@@ -1,0 +1,6 @@
+payment_id,order_id,payment_date,amount,payment_method,status
+5001,1001,2023-06-01,24000,Credit Card,Completed
+5002,1002,2023-06-03,60000,UPI,Completed
+5003,1003,2023-06-05,5400,Debit Card,Completed
+5004,1004,2023-06-07,0,None,Failed
+5005,1005,2023-06-10,20000,Net Banking,Completed
